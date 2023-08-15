@@ -1,0 +1,5 @@
+1. The given string is base64 encoded
+2. After decoding it you get a data-url which you can open in the browser
+3. After scanning the QR code you are redirected to a page.
+4. You can find the secret string in the inspector
+5. Use it to decrypt the flag
