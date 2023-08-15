@@ -1,0 +1,1 @@
+There is an encryption script day2.py. The encrypted flag is abb0a4a9bc9272b4708e706ba79f9686aea89b629f8f626262a5a8. Decrypt it.
