@@ -1,0 +1,4 @@
+1. Let's split the encrypted key in 1 byte each(2 hex characters).
+2. Convert each of them into decimal
+3. Subtract 69 from the value and add the index of the value
+4. apply chr() function to each of the values
