@@ -1,0 +1,6 @@
+here is the shell script to bruteforce all pins from 0000 to 9999
+#!/bin/sh
+for i in $(seq 0 9999); 
+do 
+echo $i steghide extract -sf file.jpeg -p $i 
+done
