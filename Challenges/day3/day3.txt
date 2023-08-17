@@ -1,0 +1,1 @@
+There is a flag hidden inside of the image using steghide. We know the passcode is a 4 digit pin. Try to retreive the flag.
