@@ -1,0 +1,1 @@
+We have captured SHA256 hash of our target's password and an unencrypted password database which contains target's password. Decrypt the password. The flag to the challenge is flag{password}
