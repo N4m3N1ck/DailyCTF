@@ -1,0 +1,1 @@
+The image flag.png contains the flag, but it appears that the image is corrupted. Try to fix the image and captrue the flag
