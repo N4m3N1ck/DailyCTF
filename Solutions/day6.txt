@@ -1,0 +1,1 @@
+To view past commits you can click "History" button on the github website. One of the commits containts XOR encoded message which you can decrypt using CyberChef. The other key is in hidden in the image using steghide.
