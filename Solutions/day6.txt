@@ -1,1 +1,3 @@
-To view past commits you can click "History" button on the github website. One of the commits containts XOR encoded message which you can decrypt using CyberChef. The other key is in hidden in the image using steghide.
+To view past commits you can click "History" button on the github website. 
+One of the commits(funny.lol file) containts XOR encoded flag which you can decrypt using CyberChef XOR bruteforce.
+The other flag is in hidden in the image Steghide.jpg using steghide.
