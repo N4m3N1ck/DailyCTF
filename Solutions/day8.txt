@@ -1,0 +1,4 @@
+If we look at the video url we see: https://www.youtube.com/watch?v=dQw4w9WgXcQZmxhZ3toMWQxbkd9
+But the same video url is actually: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+We can see that string ZmxhZ3toMWQxbkd9 was added to the url.
+If we decode the string from base64 we get flag{h1d1nG}
