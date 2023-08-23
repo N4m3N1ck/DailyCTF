@@ -2,6 +2,6 @@ We can create this reverse of the function:
 def reverse(m,k):
 	x = ""
 	for i in range(len(m)):
-		x+=chr(ord(m[i])-ord(k[i])+69)
+		x+=chr(ord(m[i])-ord(k[i])-69)
 	return x
 Now all we need to do is to find the correct key. We can loop through the passwords in rockyou.txt and find that when we use password123, we get a correct flag format flag{r0ckU}
