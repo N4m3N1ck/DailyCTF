@@ -1,0 +1,3 @@
+URL: http://n4m3n1ck.pythonanywhere.com/day14
+hint: Brute Force
+Hint 2: Bruteforce http://n4m3n1ck.pythonanywhere.com/ instead of http://n4m3n1ck.pythonanywhere.com/day14
