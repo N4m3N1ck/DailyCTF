@@ -1,0 +1,19 @@
+I have finally achieved the best chess cypher ever.
+The flag format is flag{xxxx}.
+		  		 
+		 		  
+		    	
+		  			
+				 		
+			  		
+			 	 	
+			  		
+	 					
+			  		
+			    
+		    	
+		   		
+		  	 	
+			  		
+					 	
+Hint: xoq ǝɥʇ ǝpᴉsʇno ʞuᴉɥ┴ :ʇuᴉH
