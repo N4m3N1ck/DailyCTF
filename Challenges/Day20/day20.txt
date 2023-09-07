@@ -1,0 +1,10 @@
+Challenge description:
+Housed within the pixels of a single image is the mysterious "Crypto Palace". Your task, if you choose to accept it, is to reveal the villa's location
+
+For example, the latitude is 37.123456789012345, and the longitude is 45.987654321098765.
+
+Then use these coordinates to create the flag in the following format:
+
+ZCTF{37.123456789012345, 45.987654321098765} 
+
+Credit to @ZCybSec for this challenge.
