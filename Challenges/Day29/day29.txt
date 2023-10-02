@@ -1,0 +1,6 @@
+Day-29 Challenge by goofygiraffe06:
+Echoes of The Vault: The illustrious Vault Keepers have unveiled a cryptic file named 'The Vault'. Whispers of arcane lore are locked within, waiting to be discovered. As aspirants from all corners attempt to decipher its echoes, the question remains: Can you unearth the legacy hidden by the Vault Keepers?
+
+Flag format: flag{...}
+
+https://cdn.discordapp.com/attachments/1150795094488793230/1157328180248576020/ech0_0f_th3_v4ults.zip

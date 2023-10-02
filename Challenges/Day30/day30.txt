@@ -1,0 +1,1 @@
+Reverse the encryption algorithm on the website in web-url.txt. The encrypted flag is: 6<E<6)c<#%@;5s9rx%Au~s4<~(4A$J5{})"c$Ju82t"l
